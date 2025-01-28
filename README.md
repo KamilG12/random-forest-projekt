@@ -1,4 +1,4 @@
-# random-forest-projekt-inz
+
 
 Opis
 Ten projekt wykorzystuje dane kredytowe z niemieckiego banku do przewidywania ryzyka kredytowego (dobry/zły kredyt) za pomocą modelu Random Forest Classifier. Głównym celem jest zbudowanie modelu klasyfikacyjnego i ocena jego skuteczności.
